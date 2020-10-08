@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "convesion.C": "cpp",
+        "arithmeticoperation.C": "cpp",
+        "reversetext.C": "cpp",
+        "longestword.C": "cpp",
+        "display.C": "cpp"
+    }
+}

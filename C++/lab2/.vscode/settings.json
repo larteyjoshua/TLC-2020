@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "enumlab.C": "cpp",
+        "intAssign.C": "cpp",
+        "intpoint.C": "cpp",
+        "stringcount.C": "cpp"
+    }
+}
